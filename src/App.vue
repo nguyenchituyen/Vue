@@ -99,7 +99,7 @@ a {
 }
 
 .dialog::backdrop {
-  background: rgba(224, 228, 232, .9);
+  background: gray;
   animation: .4s ease fade;
 }
 
